@@ -12,7 +12,7 @@ https://docs.djangoproject.com/en/5.0/ref/settings/
 
 from pathlib import Path
 from dotenv import load_dotenv
-from os import getenw as env 
+from os import getenv as env 
 
 
 # carrega variáveis env
